@@ -19,10 +19,10 @@
 ## ⚙️ Features
 
 - **Distributed Microservices Architecture**  
-  Each service is independent and scalable, using **Spring Cloud Netflix Eureka** for service discovery.
+  - Each service is independent and scalable, using **Spring Cloud Netflix Eureka** for service discovery.
 
 - **API Gateway**  
-  Routes requests to the correct microservice and implements **load balancing** using **Spring Cloud LoadBalancer**.
+  - Routes requests to the correct microservice and implements **load balancing** using **Spring Cloud LoadBalancer**.
 
 - **Question Service**  
   - Manage questions with **multiple choice options** and correct answers.  
